@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# output file
+./output.txt
+
+
+
+# DS_Store
+./DS_Store
+
