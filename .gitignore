@@ -175,9 +175,12 @@ cython_debug/
 
 # output file
 ./output.txt
-
+PySpark-tutoriel/output.txt
 
 
 # DS_Store
 ./DS_Store
-
+PySpark-tutoriel/DS_Store
+output.txt
+!
+.DS_Store
