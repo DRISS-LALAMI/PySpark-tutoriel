@@ -173,6 +173,11 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-output.txt
-!
-.DS_Store
+# output file
+
+./output.txt
+
+
+# DS_Store
+./DS_Store
+
